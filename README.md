@@ -1,8 +1,8 @@
 # Welcome 👋🏿
 
-Hey there, I'm Andrew a Software Developer from London, UK 🇬🇧
+Hey there, I'm Hung Trinh a Software Engineer from Ho Chi Minh, Viet Nam
 
-Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io/andrewbaisden)
+Find me on social media ➡️ [https://www.linkedin.com/in/hungtrinhit99/](https://www.linkedin.com/in/hungtrinhit99/)
 
 ![Programmer](img/andrew-baisden-banner.png 'Programmer')
 
@@ -30,18 +30,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ---
 
 ## 📝 LATEST ARTICLES
-
-<!-- BLOG-POST-LIST:START -->
-- [How to use ESLint and Prettier for code analysis and formatting](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g)
-- [How to use Docker in your Node and React Applications](https://dev.to/andrewbaisden/how-to-use-docker-in-your-node-and-react-applications-597e)
-- [How to do Test Driven Development in React using React Testing Library, Jest and Cypress](https://dev.to/andrewbaisden/how-to-do-test-driven-development-in-react-using-react-testing-library-jest-and-cypress-1d1i)
-- [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
-- [The Top 12 Node.js Frameworks on GitHub️](https://dev.to/andrewbaisden/the-top-12-nodejs-frameworks-on-github-beg)
-<!-- BLOG-POST-LIST:END -->
+Comming soon ...
 
 ---
 
-![Andrews's github stats](https://github-readme-stats.vercel.app/api?username=andrewbaisden&show_icons=true&theme=tokyonight)
+![Hung Trinh's github stats](https://github-readme-stats.vercel.app/api?username=HungTrinhIT&show_icons=true&theme=tokyonight)
 
 ---
 
